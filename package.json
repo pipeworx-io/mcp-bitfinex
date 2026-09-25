@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bitfinex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bitfinex v2 public MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ffd4355a203e129062abb80f5471e0559546d115cb8c86134334a51d6a8f5125",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-c0079fa203d2148ca6cfe7b5b832fe196c8185b84787dbaf426171408735d00c",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
