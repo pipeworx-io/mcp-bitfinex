@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bitfinex",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bitfinex v2 public MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "bitfinex",
     "gatewaySlug": "bitfinex",
-    "sourceHash": "v1-95fc6ae6cd06fb0c8cd4dd5de73041a57fb47474e08802d67ebd7e5984225433",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-94290f025e6e95d4c1f35e98aef65d6665f52eef53df739676ce6c5b8ae16e21",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
